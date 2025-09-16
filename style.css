@@ -160,3 +160,9 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+/*Estilo del gif animado*/
+.gif-felicidades {
+    display: block;
+    margin: 20px auto;
+    max-width: 200px; /* ajusta el tamaño según prefieras */
+}
